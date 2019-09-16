@@ -1,0 +1,3 @@
+Change the default user for Linux Subsystem (Windows 10):
+
+    C:\>lxrun.exe /setdefaultuser username
