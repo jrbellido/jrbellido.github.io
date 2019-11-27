@@ -1,13 +1,9 @@
 ---
 layout: default.liquid
 ---
-## Joan Ramon Bellido
+## Blog!
 
 Hello world!
-
-
-<a href="https://github.com/jrbellido/">GitHub</a>
-<a href="https://bitbucket.org/jrbellido/">Bitbucket</a>
 
 
 {% for post in collections.posts.pages %}
