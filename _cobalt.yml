@@ -1,0 +1,7 @@
+
+site:
+  title: jrbellido
+  description: random stuff
+  base_url: https://jrbellido.github.io
+posts:
+  rss: rss.xml
