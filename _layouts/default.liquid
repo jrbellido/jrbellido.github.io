@@ -5,16 +5,32 @@
         <title>{{ page.title }}</title>
         <style>
           body { 
-            font-family: monospace;
-            background-color: rgb(0,0,0);
+            font-family: Andale Mono, Sudo, Hack, monospace;
+            font-size: 0.8em;
+            background-color: #121212; 
             color: #fff;
+          }
+
+          a {
+            color: #ff78b2;
+          }
+
+          h1 {
+            font-size: 130%;
+          }
+          h2 {
+            font-size: 120%;
           }
         </style>
     </head>
     <body>
-    <div>
-      <h2>{{ page.title }}</h2>
+      <section>
+        <a href="/">Home</a>
+        <a href="/ideas.html">Ideas</a>
+      </section>
+      <div>
       {{ page.content }}
     </div>
   </body>
 </html>
+

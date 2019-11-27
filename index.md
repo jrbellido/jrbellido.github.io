@@ -3,9 +3,6 @@ layout: default.liquid
 ---
 ## Joan Ramon Bellido
 
-Hello world!
-
-
 <a href="https://github.com/jrbellido/">GitHub</a>
 <a href="https://bitbucket.org/jrbellido/">Bitbucket</a>
 
