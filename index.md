@@ -1,11 +1,24 @@
 ---
 layout: default.liquid
 ---
-## Joan Ramon Bellido
+# Joan Ramon Bellido
 
-<a href="https://github.com/jrbellido/">GitHub</a>
-<a href="https://bitbucket.org/jrbellido/">Bitbucket</a>
+## Contact
 
+* [jrbellido@gmail.com](mailto:jrbellido@gmail.com)
+
+## Privacy
+
+* [https://keybase.io/jrbellido](https://keybase.io/jrbellido)
+
+## Code
+
+* [https://github.com/jrbellido](https://github.com/jrbellido)
+* [https://bitbucket.org/jrbellido](https://bitbucket.org/jrbellido)
+
+## Social
+
+* [https://www.pinterest.com/jrbellido](https://www.pinterest.com/jrbellido)
 
 {% for post in collections.posts.pages %}
 #### {{post.title}}
