@@ -43,16 +43,8 @@ module.exports = {
         }]
     },
 
-  optimization: {
-    splitChunks: {
-        chunks: 'all'
-    }
-  },
-
-/*
     optimization: {
         splitChunks: {
-            chunks: 'async',
             cacheGroups: {
                 'react': {
                     test: /[\\/]node_modules[\\/](react|react-dom)[\\/]/,
@@ -69,7 +61,6 @@ module.exports = {
             }
         }
     },
-*/
 
     /*
     externals: {
