@@ -11,6 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
+    "@reach/router": "^1.2.1",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
     "node-sass": "^4.13.0",
