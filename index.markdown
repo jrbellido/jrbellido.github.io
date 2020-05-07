@@ -1,9 +1,9 @@
 ---
 title: JOAN R. BELLIDO
-layout: default.liquid
+layout: home
 ---
 
-## Contact
+# Contact
 
 * [jrbellido@gmail.com](mailto:jrbellido@gmail.com)
 * Twitter/Mastodon: [@jrbellido](https://twitter.com/jrbellido)
