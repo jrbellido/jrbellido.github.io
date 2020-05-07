@@ -1,8 +1,0 @@
-destination: docs
-site:
-  title: jrbellido 
-  description: Personal notes
-  base_url: https://jrbellido.github.io
-posts:
-  rss: rss.xml
-
