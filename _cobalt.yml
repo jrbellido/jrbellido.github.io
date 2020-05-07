@@ -1,7 +1,8 @@
 
 site:
-  title: cobalt blog
-  description: Blog Posts Go Here
-  base_url: http://example.com
+  title: jrbellido 
+  description: Personal notes
+  base_url: https://jrbellido.github.io
 posts:
   rss: rss.xml
+
