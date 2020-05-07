@@ -1,5 +1,5 @@
 ---
-title: Joan R. Bellido
+title: JOAN R. BELLIDO
 layout: default.liquid
 ---
 
