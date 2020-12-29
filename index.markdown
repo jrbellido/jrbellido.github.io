@@ -8,10 +8,6 @@ layout: home
 * [jrbellido@gmail.com](mailto:jrbellido@gmail.com)
 * Twitter/Mastodon: [@jrbellido](https://twitter.com/jrbellido)
 
-## Privacy
-
-* [https://keybase.io/jrbellido](https://keybase.io/jrbellido)
-
 ## Code
 
 * [https://github.com/jrbellido](https://github.com/jrbellido)
