@@ -26,3 +26,8 @@ code {
   border-radius: 2px;
   background-color: #444;
 }
+main.page-content > div.wrapper {
+  margin: 0 auto;
+  max-width: 800px;
+  margin-top: 40px;
+}
