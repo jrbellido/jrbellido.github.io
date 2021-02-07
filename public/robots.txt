@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jrbellido.github.io/sitemap.xml
