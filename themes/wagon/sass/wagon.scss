@@ -1,12 +1,14 @@
+@import 'theme-light';
+
 body {
   font-family: Andale Mono, Sudo, Hack, monospace;
   font-size: 0.8em;
-  background-color: #121212;
-  color: #fff;
+  background-color: $bgcolor;
+  color: $fgcolor;
 }
 
 a {
-  color: #ff78b2;
+  color: $link_color;
 }
 
 h1 {
@@ -27,12 +29,11 @@ code {
   background-color: #444;
 }
 
-<<<<<<< HEAD:assets/css/style.css
-main.page-content div.wrapper {
-=======
-main.page-content > div.wrapper {
->>>>>>> main:themes/wagon/sass/wagon.scss
-  margin: 0 auto;
-  max-width: 800px;
-  margin-top: 40px;
+main.page-content {
+  div.wrapper {
+    margin: 0 auto;
+    max-width: 800px;
+    margin-top: 40px;
+  }
 }
+

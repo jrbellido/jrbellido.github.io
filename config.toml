@@ -3,6 +3,7 @@ base_url = "https://jrbellido.github.io"
 compile_sass = true
 build_search_index = false
 theme = "wagon"
+output_dir = "docs"
 
 [markdown]
 highlight_code = true
