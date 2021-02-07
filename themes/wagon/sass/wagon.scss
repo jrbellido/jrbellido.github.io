@@ -27,7 +27,11 @@ code {
   background-color: #444;
 }
 
+<<<<<<< HEAD:assets/css/style.css
 main.page-content div.wrapper {
+=======
+main.page-content > div.wrapper {
+>>>>>>> main:themes/wagon/sass/wagon.scss
   margin: 0 auto;
   max-width: 800px;
   margin-top: 40px;

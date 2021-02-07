@@ -1,0 +1,10 @@
+title = "JOAN R. BELLIDO"
+base_url = "https://jrbellido.github.io"
+compile_sass = true
+build_search_index = false
+theme = "wagon"
+
+[markdown]
+highlight_code = true
+
+[extra]
