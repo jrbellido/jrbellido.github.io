@@ -3,12 +3,12 @@
 body {
   font-family: Andale Mono, Sudo, Hack, monospace;
   font-size: 0.8em;
-  background-color: $bgcolor;
-  color: $fgcolor;
+  background-color: $bg;
+  color: $fg;
 }
 
 a {
-  color: $link_color;
+  color: $link_fg;
 }
 
 h1 {
@@ -26,7 +26,8 @@ ul li {
 code {
   padding: 2px 4px;
   border-radius: 2px;
-  background-color: #444;
+  background-color: $code_bg;
+  color: $code_fg;
 }
 
 main.page-content {
